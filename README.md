@@ -54,5 +54,5 @@
 
 
 <p align="center">
-  <img src="https://quotely.vercel.app/api?theme=dark" alt="Random Quote" height="150" />
+  <img src="https://quotes-github-readme.vercel.app/api?theme=dark" alt="Random Dev Quote" />
 </p>
