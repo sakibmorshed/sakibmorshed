@@ -1,4 +1,4 @@
-<img src="[https://scontent.fcgp7-1.fna.fbcdn.net/v/t39.30808-6/606900624_122105115987179209_3516001820824252949_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=qQSjp39He1MQ7kNvwFqtHpw&_nc_oc=Adn5ZviFqXPj_CDsQdKhUZjnFvUj0uYz1C1B7tmRPX8Ut2QCOcfLrTYQeF2IZge3ITU&_nc_zt=23&_nc_ht=scontent.fcgp7-1.fna&_nc_gid=vla9p91vXZgpl69s3rPYKA&oh=00_AfmEZuRVYKTDNb4zq91I8ZMj2j7iXkMlqLT8y8XvPX0mAQ&oe=695AA8DF](https://scontent.fcgp7-1.fna.fbcdn.net/v/t39.30808-6/606900624_122105115987179209_3516001820824252949_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=qFozZF3LchMQ7kNvwFSRDKW&_nc_oc=AdmAmnx3cGsSB0tf1DOjPCMaA-1AVu1iN-uycLA1VMJrTK4ffmBTYOTRV4M0kBYlil4&_nc_zt=23&_nc_ht=scontent.fcgp7-1.fna&_nc_gid=CqpLt9A8jx0BxlPJ8t-YQw&oh=00_AfpxAbpJC6rqz132AdJKsjyDf2FuibkSGQyLXxmnHYqYvw&oe=6980AC1F)" alt="Banner" width="100%"/>
+<img src="[https://raw.githubusercontent.com/sakibmorshed/profile-assets/refs/heads/main/banner.jpg]" alt="Banner" width="100%"/>
 
 <h1 align="center">👋 Hi, I’m Sakib Morshed</h1>
 
