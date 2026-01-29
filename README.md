@@ -1,4 +1,9 @@
-<img src="[https://raw.githubusercontent.com/sakibmorshed/profile-assets/refs/heads/main/banner.jpg]" alt="Banner" width="100%"/>
+<img 
+  src="https://raw.githubusercontent.com/sakibmorshed/profile-assets/main/banner.jpg" 
+  alt="Banner" 
+  width="100%" 
+/>
+
 
 <h1 align="center">👋 Hi, I’m Sakib Morshed</h1>
 
